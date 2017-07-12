@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+TaylorViewTool::Renderer.copyright 'Cannon Taylor', 'All rights reserved'
+```
 
 ## Development
 
